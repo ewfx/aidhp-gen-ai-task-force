@@ -8,7 +8,7 @@ This project focuses on developing a real-time, adaptive recommendation engine t
 
 ---
 
-## 🛠 Key Components & Tech Stack
+##  Key Components & Tech Stack
 
 | Component                                    | Tech Stack                                                                                      |
 | -------------------------------------------- | ----------------------------------------------------------------------------------------------- |
