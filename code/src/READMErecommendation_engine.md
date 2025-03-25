@@ -4,7 +4,7 @@
 
 This project focuses on developing a real-time, adaptive recommendation engine that personalizes user experiences by analyzing customer profiles, social media activity, purchase history, sentiment analysis, and demographics. The system incorporates:
 
-**Machine Learning models** for behavioral analysis and preference prediction. ✅ **Generative AI** for personalized content recommendations. ✅ **Real-time feedback loops** to dynamically adapt to user behavior.
+**Machine Learning models** for behavioral analysis and preference prediction.  **Generative AI** for personalized content recommendations.  **Real-time feedback loops** to dynamically adapt to user behavior.
 
 ---
 
@@ -26,11 +26,11 @@ This project focuses on developing a real-time, adaptive recommendation engine t
 
 ### **Step 1: Data Collection & Processing**
 
- Collect customer profiles, past purchases, social media interactions, and real-time behavior data using APIs. 📌 Apply ETL pipelines to clean and preprocess data. 📌 Perform sentiment analysis on social media & reviews using BERT-based sentiment models.
+ Collect customer profiles, past purchases, social media interactions, and real-time behavior data using APIs.  Apply ETL pipelines to clean and preprocess data.  Perform sentiment analysis on social media & reviews using BERT-based sentiment models.
 
 ### **Step 2: Feature Engineering**
 
-**Behavior-based Features**: Shopping trends, time of purchase, browsing patterns. ✅ **Demographic Features**: Age, location, income bracket. ✅ **Sentiment Analysis**: Customer emotions from text & reviews. ✅ **Embedding Representations**: Use word embeddings (BERT, Word2Vec) for customer text data.
+**Behavior-based Features**: Shopping trends, time of purchase, browsing patterns.  **Demographic Features**: Age, location, income bracket.  **Sentiment Analysis**: Customer emotions from text & reviews.  **Embedding Representations**: Use word embeddings (BERT, Word2Vec) for customer text data.
 
 ### **Step 3: Model Selection & Training**
 
