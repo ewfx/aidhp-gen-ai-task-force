@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+This project leverages AI and machine learning to provide hyper-personalized financial product recommendations based on customer behavior, financial history, and engagement scores. By utilizing advanced AI techniques, we aim to enhance customer experience and optimize financial decision-making.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
